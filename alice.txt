@@ -1,4 +1,2 @@
-hi,
-how is your learing going?
+how is your learing going
 bye
-
